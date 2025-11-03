@@ -1,44 +1,11 @@
-# 🏥 Sistema Clínica Médica
+# Sample Snack app
 
-Aplicativo desenvolvido em **React Native (Expo)** para simular o sistema de uma clínica médica.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
----
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-## 📱 Funcionalidades
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-- Cadastro e login de pacientes  
-- Agendamento de consultas  
-- Visualização e cancelamento de consultas  
-- Prontuário eletrônico  
-- Registro de exames  
-- Triagem online (simulada)  
-- Telemedicina (simulada)
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
----
-
-## 🛠️ Tecnologias Usadas
-
-- React Native  
-- Expo  
-- React Navigation  
-- AsyncStorage  
-
----
-
-## ▶️ Como Rodar o Projeto
-
-Acesse o aplicativo diretamente pelo link abaixo:
-
-👉 [Clique aqui para abrir no Expo.dev](https://snack.expo.dev/@gustavox01/clinica-medica)
-
----
-
-Caso prefira rodar localmente:
-
-1. Instale as dependências: 
-      npm install
-   
-2. Inicie o app: 
-      npx expo start
-   
-3. Abra o aplicativo Expo Go no celular e escaneie o QR Code que aparece no terminal.
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
